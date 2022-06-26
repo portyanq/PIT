@@ -3,7 +3,7 @@
 ### [Получение сертификата Let's encrypt для Nginx (без Docker)](https://drive.google.com/file/d/1XxYyHNVtfvUujmxrOf0gc8Kw6NozBYEq/view?usp=sharing)
 ### [Отчет об установке докера и запуске статичного сайта или Node-приложения](https://drive.google.com/file/d/1GzdgmFuPLzZ4G2HrXSk09d3FGtfNDZ4b/view?usp=sharing)
 ### [Скринкаст Docker-Compose First Look](https://drive.google.com/file/d/1Wuo4Otl7kDce81hl9EeuY9zPM9abY8Oj/view?usp=sharing)
-### [LetsEncrypt & Nginx ProxyЗадание]()
+### [LetsEncrypt & Nginx ProxyЗадание](https://github.com/portyanq/PIT/tree/main/LetsEncrypt%20%26%20Nginx%20Proxy)
 ### Настройка подключения к виртуальной частной сети
 #### 1. VPS
  ![image](https://user-images.githubusercontent.com/60671160/175340993-c8535ccc-3e16-4858-a979-5a8b76a59d5c.png)
@@ -29,4 +29,4 @@
 | 5 |     Mail.ru    |     https://help.mail.ru/developers/oauth                                                                                |     https://help.mail.ru/developers/oauth/button     https://python-social-auth.readthedocs.io/en/latest/backends/mailru.html    |
 | 6 |     Twitter    |     https://developer.twitter.com/en/docs/authentication/oauth-2-0                                                       |     https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries/v2                                                     |
 
-### [Реализация дополнительной стратегии oAuth 2.0]()
+### [Реализация дополнительной стратегии oAuth 2.0](https://github.com/portyanq/PIT/tree/main/nodejs-oauth-app-master)
